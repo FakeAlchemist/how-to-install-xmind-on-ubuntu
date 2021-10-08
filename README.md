@@ -1,0 +1,1 @@
+# how-to-install-xmind-on-ubuntu
